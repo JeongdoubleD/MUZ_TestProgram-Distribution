@@ -1,6 +1,6 @@
-{
-  "version": "1.3.0",
-  "url": "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/customer-v1.3.0/MUZ_TestProgram_Setup_Customer_v1.3.0.exe",
-  "notes": "고객사 배포용 최신 버전",
-  "publishedAt": "2026-09-10"
+﻿{
+    "version":  "1.3.1",
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/customer-v1.3.1/MUZ_TestProgram_Setup_Customer_v1.3.1.exe",
+    "notes":  "앱 아이콘 적용, 릴리스 자동화 스크립트 추가",
+    "publishedAt":  "2026-09-10"
 }
