@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.4.1",
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.1/MUZ_TestProgram_Setup_Internal_v1.4.1.exe",
-    "notes":  "v1.4.1: 설치 중 실행 중인 이전 버전을 자동으로 닫도록 설치 프로그램 수정 (업데이트 알림이 계속 뜨던 문제 해결)",
+    "version":  "1.4.2",
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.2/MUZ_TestProgram_Setup_Internal_v1.4.2.exe",
+    "notes":  "v1.4.2: 설치 구성 요소 선택 화면에서 전체 설치 시 체크박스가 비어 보이던 문제 수정",
     "publishedAt":  "2026-10-13"
 }
