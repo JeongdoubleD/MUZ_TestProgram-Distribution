@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.4.2",
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.2/MUZ_TestProgram_Setup_Internal_v1.4.2.exe",
-    "notes":  "v1.4.2: 설치 구성 요소 선택 화면에서 전체 설치 시 체크박스가 비어 보이던 문제 수정",
-    "publishedAt":  "2026-10-13"
+    "version":  "1.4.4",
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.4/MxZ_TestProgram_Total_Setup_Internal_v1.4.4.exe",
+    "notes":  "v1.4.4: MultiChannel 진입점/기기 버전 선택 추가, 제품명을 MxZ로 리브랜딩(화면 문구/실행파일명/설치파일명)",
+    "publishedAt":  "2026-10-14"
 }
