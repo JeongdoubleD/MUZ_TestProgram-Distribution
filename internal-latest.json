@@ -1,6 +1,11 @@
 ﻿{
-    "version":  "1.4.5",
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.5/MxZ_TestProgram_Total_Setup_Internal_v1.4.5.exe",
-    "notes":  "v1.4.5: 4개 프로그램에 환경설정(저장 경로/파일명 규칙) 및 시작 로고 표시 끄기 옵션 추가",
+    "versions":  {
+                     "MxZ_TestProgram":  "1.4.6",
+                     "MxZ_MultiChannel":  "1.0.8",
+                     "MxZ_EISFitter":  "1.1.16",
+                     "EIS_IC_TestProgram":  "1.0.4"
+                 },
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.6/MxZ_TestProgram_Total_Setup_Internal_v1.4.6.exe",
+    "notes":  "v1.4.6: MultiChannel/EIS_IC 연결 메뉴에서 다른 프로그램 열기 추가, 4개 프로그램 각자 업데이트 확인 가능",
     "publishedAt":  "2026-10-14"
 }
