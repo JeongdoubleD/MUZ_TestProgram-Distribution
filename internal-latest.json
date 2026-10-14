@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.4.4",
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.4/MxZ_TestProgram_Total_Setup_Internal_v1.4.4.exe",
-    "notes":  "v1.4.4: MultiChannel 진입점/기기 버전 선택 추가, 제품명을 MxZ로 리브랜딩(화면 문구/실행파일명/설치파일명)",
+    "version":  "1.4.5",
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.5/MxZ_TestProgram_Total_Setup_Internal_v1.4.5.exe",
+    "notes":  "v1.4.5: 4개 프로그램에 환경설정(저장 경로/파일명 규칙) 및 시작 로고 표시 끄기 옵션 추가",
     "publishedAt":  "2026-10-14"
 }
