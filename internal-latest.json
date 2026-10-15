@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.4.9",
-                     "MxZ_MultiChannel":  "1.0.9",
-                     "MxZ_EISFitter":  "1.1.16",
-                     "EIS_IC_TestProgram":  "1.0.5"
+                     "MxZ_TestProgram":  "1.4.11",
+                     "MxZ_MultiChannel":  "1.0.11",
+                     "MxZ_EISFitter":  "1.1.18",
+                     "EIS_IC_TestProgram":  "1.0.7"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.9/MxZ_TestProgram_Total_Setup_Internal_v1.4.9.exe",
-    "notes":  "EIS_IC 측정 조건 설정에 주파수 수동 삽입/삭제, 목록 저장·불러오기 기능 추가",
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.11/MxZ_TestProgram_Total_Setup_Internal_v1.4.11.exe",
+    "notes":  "업데이트 알림 끄기 옵션, 환경설정 창 크기 조절, 연결 창 버전별 안내, EIS_IC 주파수 수동 삽입/저장·불러오기 추가",
     "publishedAt":  "2026-10-15"
 }
