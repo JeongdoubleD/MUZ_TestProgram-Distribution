@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.4.16",
+                     "MxZ_TestProgram":  "1.4.17",
                      "MxZ_MultiChannel":  "1.0.14",
                      "MxZ_EISFitter":  "1.1.19",
-                     "EIS_IC_TestProgram":  "1.0.12"
+                     "EIS_IC_TestProgram":  "1.0.13"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.16/MxZ_TestProgram_Total_Setup_Internal_v1.4.16.exe",
-    "notes":  "정확도 계산에 CSV/Excel 리포트 출력 추가, 파일 불러오기 형식 확장, 주파수 매칭 허용오차 완화(0.2%)",
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.17/MxZ_TestProgram_Total_Setup_Internal_v1.4.17.exe",
+    "notes":  "EIS_IC Factor 설정 실제 구현(EIS 타이밍/전류/R 보정계수 읽기·쓰기·파일 저장), 설치 마법사에 회사 로고 이미지 적용, 도움말 보강",
     "publishedAt":  "2026-10-19"
 }
