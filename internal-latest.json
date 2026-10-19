@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.4.14",
+                     "MxZ_TestProgram":  "1.4.16",
                      "MxZ_MultiChannel":  "1.0.14",
                      "MxZ_EISFitter":  "1.1.19",
                      "EIS_IC_TestProgram":  "1.0.12"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.14/MxZ_TestProgram_Total_Setup_Internal_v1.4.14.exe",
-    "notes":  "데이터 조회에 자사 MHZ 계열 결과 파일(.mtd) 지원 추가, 업데이트 알림창 가독성 개선",
-    "publishedAt":  "2026-10-16"
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.16/MxZ_TestProgram_Total_Setup_Internal_v1.4.16.exe",
+    "notes":  "정확도 계산에 CSV/Excel 리포트 출력 추가, 파일 불러오기 형식 확장, 주파수 매칭 허용오차 완화(0.2%)",
+    "publishedAt":  "2026-10-19"
 }
