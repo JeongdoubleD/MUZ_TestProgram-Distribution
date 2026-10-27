@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.4.17",
-                     "MxZ_MultiChannel":  "1.0.14",
-                     "MxZ_EISFitter":  "1.1.19",
-                     "EIS_IC_TestProgram":  "1.0.13"
+                     "MxZ_TestProgram":  "1.4.27",
+                     "MxZ_MultiChannel":  "1.0.21",
+                     "MxZ_EISFitter":  "1.1.20",
+                     "EIS_IC_TestProgram":  "1.0.15"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.17/MxZ_TestProgram_Total_Setup_Internal_v1.4.17.exe",
-    "notes":  "EIS_IC Factor 설정 실제 구현(EIS 타이밍/전류/R 보정계수 읽기·쓰기·파일 저장), 설치 마법사에 회사 로고 이미지 적용, 도움말 보강",
-    "publishedAt":  "2026-10-19"
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.4.27/MxZ_TestProgram_Total_Setup_Internal_v1.4.27.exe",
+    "notes":  "EIS 재측정 판정 기준에 전력/온도 상한 추가, 측정 거부 사유에 온도 상한 초과 반영, 측정 데이터(DataGrid/CSV/실시간 패널)에 온도 값 표시 추가, Range별 실제 전류값 연동 확장(1kW 0.6A 추가), 전력 상한선 초과 경고 표시, 데이터 조회/정확도 계산 파일 형식(.mpr/.mtd) 확장 및 리포트 출력(CSV/Excel) 기능 추가",
+    "publishedAt":  "2026-10-27"
 }
