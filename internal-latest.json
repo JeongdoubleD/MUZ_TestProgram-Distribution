@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.5.15",
+                     "MxZ_TestProgram":  "1.5.16",
                      "MxZ_MultiChannel":  "1.0.24",
                      "MxZ_EISFitter":  "1.1.21",
-                     "EIS_IC_TestProgram":  "1.0.17"
+                     "EIS_IC_TestProgram":  "1.0.35"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.15/MxZ_TestProgram_Total_Setup_Internal_v1.5.15.exe",
-    "notes":  "EIS_IC: 도구 메뉴에 R_Cal 보정 기능 추가 - 표준저항 연결 상태에서 EIS 측정으로 채널별 R Cal Factor를 자동 계산, 적용, 재측정 검증.",
-    "publishedAt":  "2026-11-02"
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.16/MxZ_TestProgram_Total_Setup_Internal_v1.5.16.exe",
+    "notes":  "EIS_IC Factor/R_Cal 보정 SET 명령 코드 수정(0xE9-\u003e0xD8, 0xEB-\u003e0xDA, 기기 펌웨어와 일치)",
+    "publishedAt":  "2026-11-05"
 }
