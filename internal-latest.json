@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.5.16",
+                     "MxZ_TestProgram":  "1.5.26",
                      "MxZ_MultiChannel":  "1.0.24",
                      "MxZ_EISFitter":  "1.1.21",
-                     "EIS_IC_TestProgram":  "1.0.35"
+                     "EIS_IC_TestProgram":  "1.0.36"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.16/MxZ_TestProgram_Total_Setup_Internal_v1.5.16.exe",
-    "notes":  "EIS_IC Factor/R_Cal 보정 SET 명령 코드 수정(0xE9-\u003e0xD8, 0xEB-\u003e0xDA, 기기 펌웨어와 일치)",
-    "publishedAt":  "2026-11-05"
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.26/MxZ_TestProgram_Total_Setup_Internal_v1.5.26.exe",
+    "notes":  "정확도 계산 \u0027파일 간 비교\u0027에 기준 파일 지정 및 오차(%)/PASS-FAIL 판정 기능 추가, 결과 표 Ctrl+휠 확대축소 및 정렬 개선",
+    "publishedAt":  "2026-11-06"
 }
