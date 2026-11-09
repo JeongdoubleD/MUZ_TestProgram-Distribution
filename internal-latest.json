@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.5.26",
-                     "MxZ_MultiChannel":  "1.0.24",
+                     "MxZ_TestProgram":  "1.5.28",
+                     "MxZ_MultiChannel":  "1.0.25",
                      "MxZ_EISFitter":  "1.1.21",
                      "EIS_IC_TestProgram":  "1.0.36"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.26/MxZ_TestProgram_Total_Setup_Internal_v1.5.26.exe",
-    "notes":  "정확도 계산 \u0027파일 간 비교\u0027에 기준 파일 지정 및 오차(%)/PASS-FAIL 판정 기능 추가, 결과 표 Ctrl+휠 확대축소 및 정렬 개선",
-    "publishedAt":  "2026-11-06"
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.28/MxZ_TestProgram_Total_Setup_Internal_v1.5.28.exe",
+    "notes":  "정확도 계산 Phase/Z\u0027\u0027 절대편차 판정, Range 전류값(0xF7) 조회 V1 확대",
+    "publishedAt":  "2026-11-09"
 }
