@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.5.28",
+                     "MxZ_TestProgram":  "1.5.29",
                      "MxZ_MultiChannel":  "1.0.25",
                      "MxZ_EISFitter":  "1.1.21",
                      "EIS_IC_TestProgram":  "1.0.36"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.28/MxZ_TestProgram_Total_Setup_Internal_v1.5.28.exe",
-    "notes":  "정확도 계산 Phase/Z\u0027\u0027 절대편차 판정, Range 전류값(0xF7) 조회 V1 확대",
-    "publishedAt":  "2026-11-09"
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.29/MxZ_TestProgram_Total_Setup_Internal_v1.5.29.exe",
+    "notes":  "Factor 설정 AC ADC 수동 계산 창 레인지별 전류 라벨 수정 (v1.5.29)",
+    "publishedAt":  "2026-11-10"
 }
