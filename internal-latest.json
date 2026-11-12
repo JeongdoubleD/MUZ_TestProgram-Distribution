@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.5.32",
-                     "MxZ_MultiChannel":  "1.0.28",
-                     "MxZ_EISFitter":  "1.1.23",
-                     "EIS_IC_TestProgram":  "1.0.39"
+                     "MxZ_TestProgram":  "1.5.34",
+                     "MxZ_MultiChannel":  "1.0.29",
+                     "MxZ_EISFitter":  "1.1.24",
+                     "EIS_IC_TestProgram":  "1.0.40"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.32/MxZ_TestProgram_Total_Setup_Internal_v1.5.32.exe",
-    "notes":  "EIS_IC/MultiChannel 전체 탭 미니 그래프 축 비율 왜곡 수정 (v1.0.39, v1.0.28)",
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.34/MxZ_TestProgram_Total_Setup_Internal_v1.5.34.exe",
+    "notes":  "설치 마법사에 사용 안내 문구 페이지 추가, 고객사 빌드 크래시 안내창 상세정보 숨김",
     "publishedAt":  "2026-11-12"
 }
