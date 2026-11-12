@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.5.34",
+                     "MxZ_TestProgram":  "1.5.35",
                      "MxZ_MultiChannel":  "1.0.29",
                      "MxZ_EISFitter":  "1.1.24",
                      "EIS_IC_TestProgram":  "1.0.40"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/customer-v1.5.34/MxZ_TestProgram_Total_Setup_Customer_v1.5.34.exe",
-    "notes":  "설치 마법사에 사용 안내 문구 페이지 추가, 오류 발생 시 안내창 문구 정리",
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/customer-v1.5.35/MxZ_TestProgram_Total_Setup_Customer_v1.5.35.exe",
+    "notes":  "설치 마법사에 사용권 계약 문구 추가 및 안내 페이지 디자인 개선",
     "publishedAt":  "2026-11-12"
 }
