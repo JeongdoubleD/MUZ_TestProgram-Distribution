@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.5.29",
-                     "MxZ_MultiChannel":  "1.0.25",
-                     "MxZ_EISFitter":  "1.1.21",
-                     "EIS_IC_TestProgram":  "1.0.36"
+                     "MxZ_TestProgram":  "1.5.31",
+                     "MxZ_MultiChannel":  "1.0.27",
+                     "MxZ_EISFitter":  "1.1.23",
+                     "EIS_IC_TestProgram":  "1.0.38"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.29/MxZ_TestProgram_Total_Setup_Internal_v1.5.29.exe",
-    "notes":  "Factor 설정 AC ADC 수동 계산 창 레인지별 전류 라벨 수정 (v1.5.29)",
-    "publishedAt":  "2026-11-10"
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.31/MxZ_TestProgram_Total_Setup_Internal_v1.5.31.exe",
+    "notes":  "오동작(크래시/응답 없음) 처리 기능 추가 — 로그 기록, 안내창, 선택적 오류 리포트 전송 (v1.5.31)",
+    "publishedAt":  "2026-11-12"
 }
