@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.5.31",
-                     "MxZ_MultiChannel":  "1.0.27",
+                     "MxZ_TestProgram":  "1.5.32",
+                     "MxZ_MultiChannel":  "1.0.28",
                      "MxZ_EISFitter":  "1.1.23",
-                     "EIS_IC_TestProgram":  "1.0.38"
+                     "EIS_IC_TestProgram":  "1.0.39"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.31/MxZ_TestProgram_Total_Setup_Internal_v1.5.31.exe",
-    "notes":  "오동작(크래시/응답 없음) 처리 기능 추가 — 로그 기록, 안내창, 선택적 오류 리포트 전송 (v1.5.31)",
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.32/MxZ_TestProgram_Total_Setup_Internal_v1.5.32.exe",
+    "notes":  "EIS_IC/MultiChannel 전체 탭 미니 그래프 축 비율 왜곡 수정 (v1.0.39, v1.0.28)",
     "publishedAt":  "2026-11-12"
 }
