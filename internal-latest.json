@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.5.36",
+                     "MxZ_TestProgram":  "1.5.37",
                      "MxZ_MultiChannel":  "1.0.30",
-                     "MxZ_EISFitter":  "1.1.24",
-                     "EIS_IC_TestProgram":  "1.0.41"
+                     "MxZ_EISFitter":  "1.1.25",
+                     "EIS_IC_TestProgram":  "1.0.42"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.36/MxZ_TestProgram_Total_Setup_Internal_v1.5.36.exe",
-    "notes":  "측정 조건 주파수 목록 개선 — 동일 주파수 재입력 오류 수정, 최대 개수 제한(200개) 추가, 정렬 방향에 맞는 삽입 위치 보정",
-    "publishedAt":  "2026-11-16"
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.37/MxZ_TestProgram_Total_Setup_Internal_v1.5.37.exe",
+    "notes":  "파일 열기/데이터 조회에 드래그 앤 드롭 지원 추가(EISFitter, EIS_IC)",
+    "publishedAt":  "2026-11-20"
 }
