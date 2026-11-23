@@ -1,11 +1,11 @@
 ﻿{
     "versions":  {
-                     "MxZ_TestProgram":  "1.5.37",
+                     "MxZ_TestProgram":  "1.5.38",
                      "MxZ_MultiChannel":  "1.0.30",
                      "MxZ_EISFitter":  "1.1.25",
-                     "EIS_IC_TestProgram":  "1.0.42"
+                     "EIS_IC_TestProgram":  "1.0.44"
                  },
-    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.37/MxZ_TestProgram_Total_Setup_Internal_v1.5.37.exe",
-    "notes":  "파일 열기/데이터 조회에 드래그 앤 드롭 지원 추가(EISFitter, EIS_IC)",
-    "publishedAt":  "2026-11-20"
+    "url":  "https://github.com/JeongdoubleD/MUZ_TestProgram-Distribution/releases/download/internal-v1.5.38/MxZ_TestProgram_Total_Setup_Internal_v1.5.38.exe",
+    "notes":  "펌웨어 업데이트 창 버전 표시 수정 및 여러 창 기본 크기 조정(정보/VDC·팩전압 캘리브레이션/인덕턴스 캘리브레이션/Image File Maker 등)",
+    "publishedAt":  "2026-11-23"
 }
